@@ -5,6 +5,13 @@ This library also handles the Cognito and DynamoDB errors.
 This library provides error responses, validations, and AWS-specific error handling to enhance the backend processes of the Home Hunt application.
 
 ## Features
+AWS Service Error Handling: Captures and handles errors arising from AWS services to ensure robust backend operations.
+
+Cognito Error Handling: Manages authentication and authorization errors related to AWS Cognito, helping maintain secure user sessions.
+
+DynamoDB Error Handling: Provides mechanisms to deal with common and uncommon DynamoDB errors efficiently.
+
+Form Validation Error Handling: Ensures that user input meets application requirements before processing, reducing incorrect data handling.
 
 ## Getting Started
 
